@@ -4,7 +4,7 @@
     ],
     "plugins": [
       [
-        "babel-plugin-styled-components", // <- you must: npm install -D babel-plugin-styled-components
+        "babel-plugin-styled-components",
         {
           "ssr": true,
           "minify": true,

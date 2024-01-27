@@ -302,18 +302,6 @@ const Images = {
         promoImg: l7promoImg,
 
     },
-    HomeApp: {
-        heroImg1: herol7Img1,
-        heroImg2: herol7Img2,
-        ContenToneImg1: ContenToneL7Img,
-        ContenTtwoImg: ContenTtwoL7Img,
-        ContenTtwoShape: ContenTtwoL7Shape,
-        testiMonialUserImg1: l3testiMonialUserImg1,
-        testiMonialUserImg2: l3testiMonialUserImg2,
-        testiMonialUserImg3: l3testiMonialUserImg3,
-        promoImg: l7promoImg,
-
-    },
     HomeStartup: {
         heroImg: herol8Img,
         serVicesImg1: l8serVicesImg1,

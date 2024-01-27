@@ -1,7 +1,7 @@
 import { Layout } from "~components"
 import Router from "next/router";
-import "node_modules/slick-carousel/slick/slick.css";
-import "node_modules/react-modal-video/css/modal-video.min.css";
+import "slick-carousel/slick/slick.css";
+import "react-modal-video/css/modal-video.min.css";
 import "~fonts/fontawesome-5/css/all.min.css";
 import "~styled/scss/bootstrap.scss";
 import "~styled/scss/global.scss";

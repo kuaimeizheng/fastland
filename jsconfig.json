@@ -8,11 +8,12 @@
         "allowSyntheticDefaultImports": true,
         "target": "es2017",
         "sourceMap": true,
-        // "outDir": "./dist",
+        "outDir": "./dist",
         "baseUrl": ".",
         "resolveJsonModule": true,
         "moduleResolution": "node",
         "paths": {
+            "@/*": ["*"],
             "~components/*": ["src/components/*"],
             "~components": ["src/components"],
             "~fonts/*": ["src/assets/fonts/*"],
@@ -25,7 +26,7 @@
             "~styled": ["src/styles"],
             "~data/*": ["src/data/*"],
             "~data": ["src/data"]
-        },
+        }
     }
 }
 
